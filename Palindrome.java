@@ -1,6 +1,6 @@
 
-//Write a Java function (using function) that checks whether a passed string is palindrome or
-//not. (Note : function type - No arguments with return values)
+/*  Write a Java function (using function) that checks whether a passed string is palindrome or
+not. (Note : function type - No arguments with return values)  */
 
 import java.util.Scanner;
 public class Main
