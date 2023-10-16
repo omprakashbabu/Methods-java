@@ -7,7 +7,12 @@ public class Main
 {
 	public static void main(String[] args) {
 	    
-	    palindrome_chk();
+	    if(palindrome()){
+	        System.out.println("TRUE");
+	    }
+	    else{
+	        System.out.println("FALSE");
+	    }
 	    
   }
 	public static boolean palindrome(){
@@ -24,29 +29,21 @@ public class Main
 	        return true;
 	    }else{
 	        return false;
-	    }
+	    } 
   }
-	
-	public static void palindrome_chk(){
-	    if (palindrome() == true){
-	        System.out.println("True");
-	    }else{
-	        System.out.println("False");
-	    }
-	}
+		
 }
 
 
 /*  Sample output 1:
 
-Enter a string to check if it's a palindrome : Omprakash
-The given string is not a palindrome
+Enter a string to check if it's a palindrome : Malayalam
+TRUE
 
 Sample output 2:
 
-Enter a string to check if it's a palindrome : Malayalam
-The given string is palindrome
-
+Enter a string to check if it's a palindrome : Omprakash
+FALSE
 
 */
 	        
