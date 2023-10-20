@@ -36,7 +36,9 @@ public class Main
     }   
 }
 
-/* Sample output 1
+/* 
+
+Sample output 1
 Enter a number to check if it's a prime or not : 22
 Not a prime number
 
