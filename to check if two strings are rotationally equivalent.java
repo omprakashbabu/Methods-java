@@ -30,6 +30,7 @@ public class Main
 
 
 /*
+
 sample output 1
 Enter a string to mirror : hari
 The reversed string is irah
@@ -39,4 +40,5 @@ sample output 2
 Enter a string to mirror : Malayalam
 The reversed string is malayalam
 The given is rotationally equivalent
+
 */
