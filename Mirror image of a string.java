@@ -7,7 +7,7 @@ public class Main
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter a string to mirror : ");
 		String str_0015 = input.nextLine();
-		System.out.println("The reversed string is " + mirror_image(str_0015));
+		System.out.println("The reversed string is " + mirror_image(str_0015)); 
 	}
 	
 	public static String mirror_image(String a){
