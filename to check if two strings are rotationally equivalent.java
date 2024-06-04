@@ -1,6 +1,6 @@
 
 //Write a Java program (using function) to check if two strings are rotationally equivalent.
-
+ 
 import java.util.Scanner;
 public class Main
 {
