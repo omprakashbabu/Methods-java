@@ -11,7 +11,7 @@ public class Main
 		String lowerCase = str_0015.toLowerCase();
 		System.out.println("The reversed string is " + mirror_image(lowerCase));
 		
-		if (lowerCase.equals(mirror_image(lowerCase))){
+		if  (lowerCase.equals(mirror_image(lowerCase))){
 		    System.out.println("The given is rotationally equivalent");
 		}
 		else{
