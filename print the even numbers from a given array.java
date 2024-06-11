@@ -19,7 +19,7 @@ public class Main
 		System.out.println("The even numbers are ");
 		even_num(arr,n);
 		
-	}
+	} 
 	
 	public static void even_num(int arr[], int n){
 	    for(int i=0;i<n;i++){
