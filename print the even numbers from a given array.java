@@ -11,7 +11,7 @@ public class Main
 		System.out.print("Enter the number of elements to be stored : ");
 		int n = input.nextInt();
 		System.out.println("Enter "+n+" integers : ");
-		int arr[] = new int[100];
+		int arr[] = new int[100];b
 		
 		for(int i=0;i<n;i++){
 		    arr[i] = input.nextInt();
