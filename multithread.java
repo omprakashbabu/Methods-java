@@ -27,7 +27,7 @@ class RandomNumberGenerator extends Thread {
                 } else {
                     CubeThread cubeThread = new CubeThread(number);
                     cubeThread.start();
-                }
+                } 
 
                 Thread.sleep(1000); 
             }
