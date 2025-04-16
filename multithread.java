@@ -5,7 +5,7 @@ the number and prints. If the value is odd, the third thread will print the valu
 */ 
 
 import java.util.Random; 
-
+ 
 class RandomNumberGenerator extends Thread {
     private Random random = new Random();
     private long startTime;
