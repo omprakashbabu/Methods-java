@@ -71,3 +71,4 @@ public class q1 {
         randomNumberGenerator.start();
     }
 }
+ 
