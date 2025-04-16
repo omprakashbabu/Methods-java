@@ -63,7 +63,7 @@ class CubeThread extends Thread {//if number is odd cubes the number
         int cube = number * number * number;
         System.out.println("Cube of " + number + " is " + cube);
     }
-}
+} 
 
 public class q1 {
     public static void main(String[] args) {
