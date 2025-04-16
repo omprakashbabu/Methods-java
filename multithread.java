@@ -11,7 +11,7 @@ class RandomNumberGenerator extends Thread {
     private long startTime;
 
     public RandomNumberGenerator() {
-        this.startTime = System.currentTimeMillis();
+        this.startTime = System.currentTimeMillis(); 
     }
 
     @Override
